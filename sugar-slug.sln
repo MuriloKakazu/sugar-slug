@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sugar-slug", "sugar-slug\sugar-slug.csproj", "{C31B9DA5-E8D7-439D-8F9D-5D2B8C87233E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sugar-slug-tests", "sugar-slug-tests\sugar-slug-tests.csproj", "{34999CB5-D179-4B47-944E-B51F7F7E9B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31B9DA5-E8D7-439D-8F9D-5D2B8C87233E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31B9DA5-E8D7-439D-8F9D-5D2B8C87233E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31B9DA5-E8D7-439D-8F9D-5D2B8C87233E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31B9DA5-E8D7-439D-8F9D-5D2B8C87233E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34999CB5-D179-4B47-944E-B51F7F7E9B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34999CB5-D179-4B47-944E-B51F7F7E9B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34999CB5-D179-4B47-944E-B51F7F7E9B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34999CB5-D179-4B47-944E-B51F7F7E9B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62FBC44A-CC5F-4814-89C6-290E675769AB}
+	EndGlobalSection
+EndGlobal
